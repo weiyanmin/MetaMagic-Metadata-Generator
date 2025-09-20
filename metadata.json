@@ -1,0 +1,5 @@
+{
+  "name": "MetaMagic SEO App",
+  "description": "An AI-powered application to generate SEO-friendly metadata (titles, descriptions, keywords) for a list of URLs provided via CSV upload or manual entry. The app analyzes page content to produce optimized outputs, which can be downloaded as a CSV file.",
+  "requestFramePermissions": []
+}
